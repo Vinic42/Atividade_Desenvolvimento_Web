@@ -1,0 +1,15 @@
+Codifique a estrutura da área de administração com as seguintes páginas:
+
+Página de login (fiz)
+
+Página principal do “objeto tema”. (fiz)
+
+Nesta página deve ter os links para as outras funcionalidades do sistema( Ex: link para a tela de cadastro de usuários) (fiz)
+
+Página de cadastro de usuários
+
+Formulário para cadastro/edição 
+
+Tabela com a lista dos usuários cadastrados. Cada linha deve ter botões para editar e apagar. 
+
+Entregue na atividade o link do seu repositório no Github  
